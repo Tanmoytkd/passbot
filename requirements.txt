@@ -11,4 +11,4 @@ PyScreeze==0.1.26
 python3-xlib==0.15
 PyTweening==1.0.3
 setuptools==39.0.1
-wheel==0.34.2
+wheel==0.38.1
